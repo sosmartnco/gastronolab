@@ -14,6 +14,6 @@ In this project, we can find three paths :
 
 Each path is an app, so we have here a HUB called "GastronoLab".
 
-To get more information about each app, read the readme files you'll find in each folder with the name of each app.
+To get more information about each app, read the files you'll find in GastronoLab Wiki with the name of each app.
 
 Thanks for reading !
